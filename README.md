@@ -8,5 +8,13 @@ Mood Recognition: The system is capable of recognizing the mood of the user's fa
 
 
 * Custom dataset for Facial Recognition
+  > https://drive.google.com/drive/folders/1Wodg-VrrexZeeGxHBl-fFyuBM_GyQZ3t?usp=sharing
 
-// link
+* IDE
+  > Visual Studio Code
+
+* Face Recognition Model
+  > The facial recognition model uses pre-trained models to analyze video frames captured from the webcam, identifying my face among other 4 people in the dataset.
+
+* Mood Detector Model
+  > The mood detector model, powered by DeepFace, analyzes live video feeds from the webcam, swiftly identifying emotions like happiness, sadness, anger, confusion, or any other emotions displayed by individuals. This straightforward tool enables users to assess the prevailing mood within their surroundings effortlessly.
